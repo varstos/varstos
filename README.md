@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br> - Leading frontend development for LogicBanker, a web-based investment trading game using Next.js and NestJS<br> - Implementing real-time trading features with WebSocket APIs and live portfolio tracking<br><br>👯 I'm looking to collaborate on<br> - Full-stack web applications using modern frameworks<br> - E-commerce platforms with payment gateway integrations<br> - Real-time data visualization projects<br> - Cloud-native applications leveraging AWS services
+🔭 Leading frontend development for LogicBanker, a web-based investment trading game that lets users learn stock market trading through real-time simulations with zero financial risk<br><br>👯 I'm looking to collaborate on<br> - Full-stack web applications using modern frameworks<br> - E-commerce platforms with payment gateway integrations<br> - Real-time data visualization projects<br> - Cloud-native applications leveraging AWS services
 
 
 ## 🌐 Socials:
