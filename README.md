@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🚀 **Senior Full Stack Software Engineer** with 6+ years building production-grade web applications that scale
+🚀 **Senior Full Stack Software Engineer** with 7+ years building production-grade web applications that scale
 
 ### What I Do Best
 ✨ End-to-end ownership—from designing APIs and optimizing PostgreSQL schemas to building interactive dashboards  
