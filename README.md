@@ -1,3 +1,13 @@
+## 🤖 Skip the CV — Ask My AI Career Bot
+
+> ### **[vulcast-portfolio-bot.com](https://vulcast-portfolio-bot.com/)**
+>
+> A RAG-powered chatbot that knows my career inside out. Ask it anything — projects, stack, experience — and get answers grounded in real context.
+
+[![Try the Bot](https://img.shields.io/badge/Try_the_Bot-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vulcast-portfolio-bot.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vuk-krsmanovic)
+
+---
+
 # 💫 About Me:
 
 🚀 **Senior Full Stack Software Engineer** with 7+ years building production-grade web applications that scale
@@ -15,10 +25,7 @@
 - Fintech, healthcare, or social impact products
 - Cloud-native applications leveraging AWS services
 
-📍 **Montenegro (UTC+1)** | Remote-first | Fluent English 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vuk-krsmanovic) 
+📍 **Montenegro (UTC+1)** | Remote-first | Fluent English
 
 # 💻 Tech Stack:
 
