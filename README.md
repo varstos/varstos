@@ -2,7 +2,7 @@
 
 > ### **[vulcast-portfolio-bot.com](https://vulcast-portfolio-bot.com/)**
 >
-> A RAG-powered chatbot that knows my career inside out. Ask it anything — projects, stack, decisions, trade-offs — and get answers grounded in real context.
+> A AI-powered chatbot that knows my career inside out. Ask it anything — projects, stack, decisions, trade-offs — and get answers grounded in real context.
 
 [![Try the Bot](https://img.shields.io/badge/Try_the_Bot-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vulcast-portfolio-bot.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vuk-krsmanovic)
 
