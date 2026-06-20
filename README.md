@@ -27,7 +27,7 @@ Most recently founding frontend engineer at a Danish fintech startup, where I ow
 - Performance-critical React / Next.js applications with serious backends
 - Full-stack TypeScript products where the UI and API evolve together
 - Design system and component library work
-- Data visualization (Recharts, Lightweight Charts, D3)
+- Data visualization (Recharts, Lightweight Charts, D3.js)
 - Developer tooling and AI-powered SaaS
 
 📍 **Montenegro (CET/CEST)** · Remote-first · English (C2)
