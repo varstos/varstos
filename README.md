@@ -10,7 +10,7 @@
 
 # 💫 About Me
 
-🚀 **Senior Full-Stack Engineer** — frontend-leaning, with **7+ years** shipping production React and TypeScript applications backed by Node.js services
+🚀 **Senior Full-Stack Engineer** — frontend-leaning, with **6+ years** shipping production React and TypeScript applications backed by Node.js services
 
 Most recently founding frontend engineer at a Danish fintech startup, where I owned the full UI stack of a real-time investment simulation platform — React/Next.js on the client, BFF layers and Fastify/Node.js services behind it, PostgreSQL via Prisma, and the WebSocket streaming pipeline tying it all together.
 
